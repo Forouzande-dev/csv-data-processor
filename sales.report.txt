@@ -1,0 +1,5 @@
+SALES REPORT 
+Total sales: 10650 
+Best sales: {'Product': 'Tablet', 'quantity': 3, 'price': 3000, 'total': 9000} 
+total quantity: 15 
+Average sales: 2130.0 
