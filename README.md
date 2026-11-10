@@ -11,7 +11,7 @@ statistics, and generates a report.
 - Calculates total quantity sold
 - Finds the best-selling product
 - Calculates average sales
-- Generates average sales
+- Generates a txt report
 - Supports adding new products without changing the python code
 
 
