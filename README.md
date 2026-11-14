@@ -46,3 +46,6 @@ statistics, and generates a report.
 This project was created to practice Python automation, CSV data processing, and report generation.
 
 
+Git practice: working on a seperate branch.
+
+
